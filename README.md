@@ -1,5 +1,7 @@
 # Grafo-Wiki-com-Streamlit
 
+[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]((https://grafo-wiki-com-app-upb5gsvsdaf6w5cyfwew3s.streamlit.app/))
+
 ## Visão Geral
 
 Este repositório contém uma aplicação web construída com Streamlit para análise e visualização interativa de um grafo de rede. A aplicação carrega um grafo direcionado que representa uma teia de artigos interconectados da Wikipédia, originada a partir do tópico "RPG Eletrônico". Ela fornece ferramentas para explorar a estrutura do grafo, identificar nós-chave e entender suas propriedades gerais por meio de diversas métricas da análise de redes.
